@@ -1,0 +1,30 @@
+_repo: The-law-relating-to-betting-time-bargains-and-gaming_71829
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Cautley, Henry Strother
+    gutenberg_agent_id: '56416'
+    url: http://www.gutenberg.org/2009/agents/56416
+  - agent_name: Stutfield, G. Herbert
+    gutenberg_agent_id: '56415'
+    url: http://www.gutenberg.org/2009/agents/56415
+description: ''
+gutenberg_issued: '2023-10-08'
+identifiers:
+  gutenberg: '71829'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=hvd.hn5v2k
+pgterms:marc905: 20201005103203stutfield
+pgterms:marc906: '1892'
+pgterms:marc907: GB
+production_note: Richard Tonsing, deaurider, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aUnited Kingdom :$bWaterlow & Sons, Limited, $c1892.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The law relating to betting, time-bargains and gaming
+url: http://www.gutenberg.org/ebooks/71829
